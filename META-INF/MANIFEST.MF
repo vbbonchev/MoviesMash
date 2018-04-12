@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: Apache Commons FileUpload
+Implementation-Version: 1.3.3
+Built-By: chtompki
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Apache Commons FileUpload
+Implementation-Vendor-Id: commons-fileupload
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_131
+Specification-Version: 1.3.3
+Implementation-Vendor: The Apache Software Foundation
+

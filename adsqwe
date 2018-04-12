@@ -1,0 +1,24 @@
+[33mcommit c61104703f213d1e682fae443f7e14b1893e90cf[m
+Merge: 5d9d8cf abb36f7
+Author: aser93 <aser93@abv.bg>
+Date:   Thu Apr 12 18:22:19 2018 +0300
+
+    Merge https://github.com/vbbonchev/MoviesMash
+
+[33mcommit abb36f7aaf0e79d0ad67645ebfd80a361acbe20a[m
+Author: vbbonchev <35398414+vbbonchev@users.noreply.github.com>
+Date:   Thu Apr 12 18:19:27 2018 +0300
+
+    Delete README.md
+
+[33mcommit 5d9d8cf97e51ffcbc9816cb30a73afc5e8345b08[m
+Author: aser93 <aser93@abv.bg>
+Date:   Thu Apr 12 18:16:07 2018 +0300
+
+    Initial Commit
+
+[33mcommit 2fc73e603d9b631f1042aad2bee7e9afacaec3a3[m
+Author: vbbonchev <35398414+vbbonchev@users.noreply.github.com>
+Date:   Thu Apr 12 18:10:17 2018 +0300
+
+    Initial commit
